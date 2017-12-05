@@ -3,7 +3,7 @@ language: node_js
 node_js:
   - "node"
 before_script:
-  - npm run build
+  - npm run build --prod
 cache:
   directories:
     - "node_modules"
@@ -17,3 +17,5 @@ deploy:
   skip_cleanup: true
   local_dir: dist
   cache_control: "max-age=21600"
+addons:
+  chrome: stable
