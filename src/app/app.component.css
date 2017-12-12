@@ -11,6 +11,10 @@ p, a, li {
 
 }
 
+.subtitle {
+    text-align: center;
+}
+
 .hero {
     border-radius: 1em;
 }
