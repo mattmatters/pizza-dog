@@ -1,6 +1,8 @@
-# Wiener Pizza
+# [Wiener Pizza](http://wienerpizza.men)
+[![Build Status](https://travis-ci.org/mattmatters/pizza-dog.svg?branch=master)](https://travis-ci.org/mattmatters/pizza-dog)
+[![Website Status](https://img.shields.io/website-up-down-green-red/http/wienerpizza.men.svg?label=WebsiteStatus)](http://wienerpizza.men)
 
-Testing Angular 5.
+Testing Angular 5 and :hotdog:.
 
 ## Development server
 
