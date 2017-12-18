@@ -18,3 +18,9 @@ p, a, li {
 .hero {
     border-radius: 1em;
 }
+
+/* Main container class. */
+.directions {
+    padding-left: 20%;
+    padding-right: 20%;
+}
