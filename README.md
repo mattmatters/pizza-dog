@@ -1,6 +1,8 @@
 # [Wiener Pizza](http://wienerpizza.men)
 [![Build Status](https://travis-ci.org/mattmatters/pizza-dog.svg?branch=master)](https://travis-ci.org/mattmatters/pizza-dog)
 [![Website Status](https://img.shields.io/website-up-down-green-red/http/wienerpizza.men.svg?label=WebsiteStatus)](http://wienerpizza.men)
+[![Maintainability](https://api.codeclimate.com/v1/badges/3577da52188caced38bf/maintainability)](https://codeclimate.com/github/mattmatters/pizza-dog/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/3577da52188caced38bf/test_coverage)](https://codeclimate.com/github/mattmatters/pizza-dog/test_coverage)
 
 Testing Angular 5 and :hotdog:.
 
